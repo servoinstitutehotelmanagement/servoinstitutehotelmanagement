@@ -7,7 +7,6 @@ Welcome to **Servo Institute of Hotel Management** (Dehradun), a premier hospita
 ### 🌟 Programs & Specializations
 - Professional Diploma in Hotel Management
 - Food & Beverage (F&B) Service & Bartending
-- Front Office Operations & Housekeeping Management
 - International Hotel Internships & 100% Placement Support
 
 ---
